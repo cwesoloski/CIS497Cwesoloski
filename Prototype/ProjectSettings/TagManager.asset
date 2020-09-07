@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - TriggerZone
+  - Score Text
   layers:
   - Default
   - TransparentFX
